@@ -198,7 +198,7 @@ order_now.html
 </head>
 <body>
     <div id="body">
-    <h1 align="center" style="text-decoration: underline wavy purple;">Enjoy your meels</h1>
+    <h1 align="center" style="text-decoration: underline wavy purple;">Enjoy your meals</h1>
     <div id="body1" >
         <img src="chiili garlic prawns.jpg" alt="crab">
         
